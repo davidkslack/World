@@ -16,3 +16,9 @@ Server with the URL http://local.world.com/
 
 ##Use
 Any files added to public are rendered in the browser
+
+##TODO
+Show each country, with its cities and language on a page/pages.
+Use any frameworks or libraries or use none at all.
+Must use PHP and HTML and should use JS and CSS too.
+Should take half a day.
